@@ -1,6 +1,6 @@
 import java.util.Locale;
 
-public class Main1 {
+public class Print {
     /**
      * @param args
      * @throws Exception

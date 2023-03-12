@@ -1,36 +1,37 @@
-import java.util.Locale;
+import java.util.Scanner;
 
-public class Main {
-    /**
-     * @param args
-     * @throws Exception
-     */
-    public static void main(String[] args) throws Exception {
+public class Main{
         
-
-        // Variaveis
-        String produto1 = "Computer";
-        String produto2 = "Office Desk";
-
-        int age     = 26;
-        int code    = 5290 ;
-        char gender = 'M';
+        public static void main(String[] args) {
         
-        double price1  = 2100.0 ;
-        double price2  = 650.50 ;
-        double mensure = 53.234567;
-
-        System.out.printf("%s  which price is : $ %.2f dolares%n  %s which price is: $ %.2f dolar%n   ", produto1, price1, produto2, price2);
+        // scanner a entrada de dados    
+        Scanner sc = new Scanner(System.in);
+        // tipo de entrada do var     
+        int x;
+        String s1 , s2 ,s3;
         
-        System.out.printf("Record: %d ages, code: %d  and gener: %c %n", age, code, gender);
+        // chamar o leitor de variavel nextline para prosseguir depois do espaço
+        x = sc.nextInt();
+        sc.nextLine();
+        s1 = sc.nextLine();
+        s2 = sc.nextLine();
+        s3 = sc.nextLine();
         
-        System.out.printf("Measue with eight decimal places: %.8f %n", mensure);
-        System.out.printf("Rouded (three decimal places): %.3f%n", mensure);
-        // mudar a localização do programa
-        Locale.setDefault(Locale.US);
+        // tipo de print     
         
-        System.out.printf("Us decimal point: %.3f%n", mensure);
+        System.out.println("DADOS DIGITADOS");
+        System.out.println(x);
+        System.out.println(s1);
+        System.out.println(s2);
+        System.out.println(s3);
+
+        // fecha entrada
+        sc.close();
+         }
 
 
-    }
+
+
+
+
 }
