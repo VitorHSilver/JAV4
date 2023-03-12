@@ -15,7 +15,7 @@ public class ImpostoRenda {
     
         if (salario <= 2000.0) {
                 imposto = 0.0;    
-                System.out.println("Isento");
+                System.out.println("Isento de Imposto");
 
         }else if(salario <= 3000.0) {
                 imposto = (salario -2000.0) * 0.08;
