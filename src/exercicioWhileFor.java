@@ -3,6 +3,10 @@ import java.util.Scanner;
 public class exercicioWhileFor {
     public static void main(String[] args) {
 
+        Scanner sc = new Scanner(System.in);
+
+        sc.close();
+
     }// fecha main
 
 }// fecha classe
@@ -42,7 +46,7 @@ public class exercicioWhileFor {
  * tipo de combustível, conforme
  * exemplo.
  * 
- * Scanner sc = new Scanner(System.in);
+ * 
  * 
  * int alcool = 0;
  * int gasolina = 0;
