@@ -1,0 +1,17 @@
+
+criar um novo repositorio
+// git init
+
+// mostrar como está o projeto
+git status
+
+
+// jogar os arquivos na area de stage(preparar para salvar)
+git add . 
+
+// salvar o que modificou
+
+git commit -m "mensagem explicativa"
+
+// enviar github
+git push 
