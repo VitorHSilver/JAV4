@@ -6,6 +6,13 @@
           "configurations": [
                     {
                               "type": "java",
+                              "name": "Launch Exerc5_Vetores",
+                              "request": "launch",
+                              "mainClass": "Exerc5_Vetores",
+                              "projectName": "JAV4_1c6bd912"
+                    },
+                    {
+                              "type": "java",
                               "name": "Launch exercicios",
                               "request": "launch",
                               "mainClass": "exercicios",
