@@ -11,3 +11,13 @@ git branch -M main
 git remote add origin git@github.com:VitorHSilver/JAV4.git
 
 git push -u origin main
+
+-- Remover
+
+git status
+
+git reset
+
+git clean -df
+
+git checkou -- .  para voltar ao ultimo commit
