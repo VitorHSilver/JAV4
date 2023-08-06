@@ -6,6 +6,76 @@
           "configurations": [
                     {
                               "type": "java",
+                              "name": "Launch Programa",
+                              "request": "launch",
+                              "mainClass": "application.Programa",
+                              "projectName": "JAV4_1c6bd912"
+                    },
+                    {
+                              "type": "java",
+                              "name": "Launch converterDate",
+                              "request": "launch",
+                              "mainClass": "application.converterDate",
+                              "projectName": "JAV4_1c6bd912"
+                    },
+                    {
+                              "type": "java",
+                              "name": "Launch Date",
+                              "request": "launch",
+                              "mainClass": "application.Date",
+                              "projectName": "JAV4_1c6bd912"
+                    },
+                    {
+                              "type": "java",
+                              "name": "Launch Matriz",
+                              "request": "launch",
+                              "mainClass": "application.Matriz",
+                              "projectName": "JAV4_1c6bd912"
+                    },
+                    {
+                              "type": "java",
+                              "name": "Launch DslistApplication",
+                              "request": "launch",
+                              "mainClass": "DslistApplication",
+                              "projectName": "JAV4_1c6bd912"
+                    },
+                    {
+                              "type": "java",
+                              "name": "Launch DslistApplication",
+                              "request": "launch",
+                              "mainClass": "com.devsuperior.dslist.DslistApplication",
+                              "projectName": "dslist"
+                    },
+                    {
+                              "type": "java",
+                              "name": "Launch EmployeePayment",
+                              "request": "launch",
+                              "mainClass": "application.EmployeePayment",
+                              "projectName": "JAV4_1c6bd912"
+                    },
+                    {
+                              "type": "java",
+                              "name": "Launch Lista",
+                              "request": "launch",
+                              "mainClass": "Lista",
+                              "projectName": "JAV4_1c6bd912"
+                    },
+                    {
+                              "type": "java",
+                              "name": "Launch Cofre",
+                              "request": "launch",
+                              "mainClass": "application.Cofre",
+                              "projectName": "JAV4_1c6bd912"
+                    },
+                    {
+                              "type": "java",
+                              "name": "Launch Pensionato",
+                              "request": "launch",
+                              "mainClass": "application.Pensionato",
+                              "projectName": "JAV4_1c6bd912"
+                    },
+                    {
+                              "type": "java",
                               "name": "Launch Exerc5_Vetores",
                               "request": "launch",
                               "mainClass": "Exerc5_Vetores",
