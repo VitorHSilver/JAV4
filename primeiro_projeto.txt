@@ -21,3 +21,18 @@ git reset
 git clean -df
 
 git checkou -- .  para voltar ao ultimo commit
+
+-- log
+
+git log --oneline
+
+-- pull (trazer commits do remote)
+
+git pull origin main
+
+-- Vii
+
+tecla i para inserir o nome do commit
+
+salvar
+:wq
