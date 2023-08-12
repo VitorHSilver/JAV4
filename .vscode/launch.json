@@ -4,214 +4,235 @@
           // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
           "version": "0.2.0",
           "configurations": [
-                    {
-                              "type": "java",
-                              "name": "Launch Programa",
-                              "request": "launch",
-                              "mainClass": "application.Programa",
-                              "projectName": "JAV4_1c6bd912"
-                    },
-                    {
-                              "type": "java",
-                              "name": "Launch converterDate",
-                              "request": "launch",
-                              "mainClass": "application.converterDate",
-                              "projectName": "JAV4_1c6bd912"
-                    },
-                    {
-                              "type": "java",
-                              "name": "Launch Date",
-                              "request": "launch",
-                              "mainClass": "application.Date",
-                              "projectName": "JAV4_1c6bd912"
-                    },
-                    {
-                              "type": "java",
-                              "name": "Launch Matriz",
-                              "request": "launch",
-                              "mainClass": "application.Matriz",
-                              "projectName": "JAV4_1c6bd912"
-                    },
-                    {
-                              "type": "java",
-                              "name": "Launch DslistApplication",
-                              "request": "launch",
-                              "mainClass": "DslistApplication",
-                              "projectName": "JAV4_1c6bd912"
-                    },
-                    {
-                              "type": "java",
-                              "name": "Launch DslistApplication",
-                              "request": "launch",
-                              "mainClass": "com.devsuperior.dslist.DslistApplication",
-                              "projectName": "dslist"
-                    },
-                    {
-                              "type": "java",
-                              "name": "Launch EmployeePayment",
-                              "request": "launch",
-                              "mainClass": "application.EmployeePayment",
-                              "projectName": "JAV4_1c6bd912"
-                    },
-                    {
-                              "type": "java",
-                              "name": "Launch Lista",
-                              "request": "launch",
-                              "mainClass": "Lista",
-                              "projectName": "JAV4_1c6bd912"
-                    },
-                    {
-                              "type": "java",
-                              "name": "Launch Cofre",
-                              "request": "launch",
-                              "mainClass": "application.Cofre",
-                              "projectName": "JAV4_1c6bd912"
-                    },
-                    {
-                              "type": "java",
-                              "name": "Launch Pensionato",
-                              "request": "launch",
-                              "mainClass": "application.Pensionato",
-                              "projectName": "JAV4_1c6bd912"
-                    },
-                    {
-                              "type": "java",
-                              "name": "Launch Exerc5_Vetores",
-                              "request": "launch",
-                              "mainClass": "Exerc5_Vetores",
-                              "projectName": "JAV4_1c6bd912"
-                    },
-                    {
-                              "type": "java",
-                              "name": "Launch exercicios",
-                              "request": "launch",
-                              "mainClass": "exercicios",
-                              "projectName": "JAV4_1c6bd912"
-                    },
-                    {
-                              "type": "java",
-                              "name": "Launch tabuada",
-                              "request": "launch",
-                              "mainClass": "tabuada",
-                              "projectName": "JAV4_1c6bd912"
-                    },
-                    {
-                              "type": "java",
-                              "name": "Launch exercicioWhile",
-                              "request": "launch",
-                              "mainClass": "exercicioWhile",
-                              "projectName": "JAV4_1c6bd912"
-                    },
-                    {
-                              "type": "java",
-                              "name": "Launch exercicio",
-                              "request": "launch",
-                              "mainClass": "exercicio",
-                              "projectName": "JAV4_1c6bd912"
-                    },
-                    {
-                              "type": "java",
-                              "name": "Launch EstrEnq",
-                              "request": "launch",
-                              "mainClass": "EstrEnq",
-                              "projectName": "JAV4_1c6bd912"
-                    },
-                    {
-                              "type": "java",
-                              "name": "Launch Current File",
-                              "request": "launch",
-                              "mainClass": "${file}"
-                    },
-                    {
-                              "type": "java",
-                              "name": "Launch Acoes",
-                              "request": "launch",
-                              "mainClass": "Acoes",
-                              "projectName": "JAV4_1c6bd912"
-                    },
-                    {
-                              "type": "java",
-                              "name": "Launch CalcTabela",
-                              "request": "launch",
-                              "mainClass": "CalcTabela",
-                              "projectName": "JAV4_1c6bd912"
-                    },
-                    {
-                              "type": "java",
-                              "name": "Launch Cobranca",
-                              "request": "launch",
-                              "mainClass": "Cobranca",
-                              "projectName": "JAV4_1c6bd912"
-                    },
-                    {
-                              "type": "java",
-                              "name": "Launch CondTernaria",
-                              "request": "launch",
-                              "mainClass": "CondTernaria",
-                              "projectName": "JAV4_1c6bd912"
-                    },
-                    {
-                              "type": "java",
-                              "name": "Launch Distancia",
-                              "request": "launch",
-                              "mainClass": "Distancia",
-                              "projectName": "JAV4_1c6bd912"
-                    },
-                    {
-                              "type": "java",
-                              "name": "Launch Escolhas",
-                              "request": "launch",
-                              "mainClass": "Escolhas",
-                              "projectName": "JAV4_1c6bd912"
-                    },
-                    {
-                              "type": "java",
-                              "name": "Launch Funcionario",
-                              "request": "launch",
-                              "mainClass": "Funcionario",
-                              "projectName": "JAV4_1c6bd912"
-                    },
-                    {
-                              "type": "java",
-                              "name": "Launch ImpostoRenda",
-                              "request": "launch",
-                              "mainClass": "ImpostoRenda",
-                              "projectName": "JAV4_1c6bd912"
-                    },
-                    {
-                              "type": "java",
-                              "name": "Launch LotoFacil",
-                              "request": "launch",
-                              "mainClass": "LotoFacil",
-                              "projectName": "JAV4_1c6bd912"
-                    },
-                    {
-                              "type": "java",
-                              "name": "Launch Main",
-                              "request": "launch",
-                              "mainClass": "Main",
-                              "projectName": "JAV4_1c6bd912"
-                    },
-                    {
-                              "type": "java",
-                              "name": "Launch Matematica",
-                              "request": "launch",
-                              "mainClass": "Matematica",
-                              "projectName": "JAV4_1c6bd912"
-                    },
-                    {
-                              "type": "java",
-                              "name": "Launch Print",
-                              "request": "launch",
-                              "mainClass": "Print",
-                              "projectName": "JAV4_1c6bd912"
-                    },
-                    {
-                              "type": "java",
-                              "name": "Launch Produto",
-                              "request": "launch",
-                              "mainClass": "Produto",
-                              "projectName": "JAV4_1c6bd912"
-                    }
-          ]
+            {
+                "type": "java",
+                "name": "Launch OrderSumary",
+                "request": "launch",
+                "mainClass": "application.OrderSumary",
+                "projectName": "JAV4_1c6bd912"
+            },
+            {
+                "type": "java",
+                "name": "Launch Acoes",
+                "request": "launch",
+                "mainClass": "ProjetosEmAndamento.ProjAções.Acoes",
+                "projectName": "JAV4_1c6bd912"
+            },
+            {
+                "type": "java",
+                "name": "Launch Prog",
+                "request": "launch",
+                "mainClass": "application.Prog",
+                "projectName": "JAV4_1c6bd912"
+            },
+            {
+                "type": "java",
+                "name": "Launch Programa",
+                "request": "launch",
+                "mainClass": "application.Programa",
+                "projectName": "JAV4_1c6bd912"
+            },
+            {
+                "type": "java",
+                "name": "Launch converterDate",
+                "request": "launch",
+                "mainClass": "application.converterDate",
+                "projectName": "JAV4_1c6bd912"
+            },
+            {
+                "type": "java",
+                "name": "Launch Date",
+                "request": "launch",
+                "mainClass": "application.Date",
+                "projectName": "JAV4_1c6bd912"
+            },
+            {
+                "type": "java",
+                "name": "Launch Matriz",
+                "request": "launch",
+                "mainClass": "application.Matriz",
+                "projectName": "JAV4_1c6bd912"
+            },
+            {
+                "type": "java",
+                "name": "Launch DslistApplication",
+                "request": "launch",
+                "mainClass": "DslistApplication",
+                "projectName": "JAV4_1c6bd912"
+            },
+            {
+                "type": "java",
+                "name": "Launch DslistApplication",
+                "request": "launch",
+                "mainClass": "com.devsuperior.dslist.DslistApplication",
+                "projectName": "dslist"
+            },
+            {
+                "type": "java",
+                "name": "Launch EmployeePayment",
+                "request": "launch",
+                "mainClass": "application.EmployeePayment",
+                "projectName": "JAV4_1c6bd912"
+            },
+            {
+                "type": "java",
+                "name": "Launch Lista",
+                "request": "launch",
+                "mainClass": "Lista",
+                "projectName": "JAV4_1c6bd912"
+            },
+            {
+                "type": "java",
+                "name": "Launch Cofre",
+                "request": "launch",
+                "mainClass": "application.Cofre",
+                "projectName": "JAV4_1c6bd912"
+            },
+            {
+                "type": "java",
+                "name": "Launch Pensionato",
+                "request": "launch",
+                "mainClass": "application.Pensionato",
+                "projectName": "JAV4_1c6bd912"
+            },
+            {
+                "type": "java",
+                "name": "Launch Exerc5_Vetores",
+                "request": "launch",
+                "mainClass": "Exerc5_Vetores",
+                "projectName": "JAV4_1c6bd912"
+            },
+            {
+                "type": "java",
+                "name": "Launch exercicios",
+                "request": "launch",
+                "mainClass": "exercicios",
+                "projectName": "JAV4_1c6bd912"
+            },
+            {
+                "type": "java",
+                "name": "Launch tabuada",
+                "request": "launch",
+                "mainClass": "tabuada",
+                "projectName": "JAV4_1c6bd912"
+            },
+            {
+                "type": "java",
+                "name": "Launch exercicioWhile",
+                "request": "launch",
+                "mainClass": "exercicioWhile",
+                "projectName": "JAV4_1c6bd912"
+            },
+            {
+                "type": "java",
+                "name": "Launch exercicio",
+                "request": "launch",
+                "mainClass": "exercicio",
+                "projectName": "JAV4_1c6bd912"
+            },
+            {
+                "type": "java",
+                "name": "Launch EstrEnq",
+                "request": "launch",
+                "mainClass": "EstrEnq",
+                "projectName": "JAV4_1c6bd912"
+            },
+            {
+                "type": "java",
+                "name": "Launch Current File",
+                "request": "launch",
+                "mainClass": "${file}"
+            },
+            {
+                "type": "java",
+                "name": "Launch Acoes",
+                "request": "launch",
+                "mainClass": "Acoes",
+                "projectName": "JAV4_1c6bd912"
+            },
+            {
+                "type": "java",
+                "name": "Launch CalcTabela",
+                "request": "launch",
+                "mainClass": "CalcTabela",
+                "projectName": "JAV4_1c6bd912"
+            },
+            {
+                "type": "java",
+                "name": "Launch Cobranca",
+                "request": "launch",
+                "mainClass": "Cobranca",
+                "projectName": "JAV4_1c6bd912"
+            },
+            {
+                "type": "java",
+                "name": "Launch CondTernaria",
+                "request": "launch",
+                "mainClass": "CondTernaria",
+                "projectName": "JAV4_1c6bd912"
+            },
+            {
+                "type": "java",
+                "name": "Launch Distancia",
+                "request": "launch",
+                "mainClass": "Distancia",
+                "projectName": "JAV4_1c6bd912"
+            },
+            {
+                "type": "java",
+                "name": "Launch Escolhas",
+                "request": "launch",
+                "mainClass": "Escolhas",
+                "projectName": "JAV4_1c6bd912"
+            },
+            {
+                "type": "java",
+                "name": "Launch Funcionario",
+                "request": "launch",
+                "mainClass": "Funcionario",
+                "projectName": "JAV4_1c6bd912"
+            },
+            {
+                "type": "java",
+                "name": "Launch ImpostoRenda",
+                "request": "launch",
+                "mainClass": "ImpostoRenda",
+                "projectName": "JAV4_1c6bd912"
+            },
+            {
+                "type": "java",
+                "name": "Launch LotoFacil",
+                "request": "launch",
+                "mainClass": "LotoFacil",
+                "projectName": "JAV4_1c6bd912"
+            },
+            {
+                "type": "java",
+                "name": "Launch Main",
+                "request": "launch",
+                "mainClass": "Main",
+                "projectName": "JAV4_1c6bd912"
+            },
+            {
+                "type": "java",
+                "name": "Launch Matematica",
+                "request": "launch",
+                "mainClass": "Matematica",
+                "projectName": "JAV4_1c6bd912"
+            },
+            {
+                "type": "java",
+                "name": "Launch Print",
+                "request": "launch",
+                "mainClass": "Print",
+                "projectName": "JAV4_1c6bd912"
+            },
+            {
+                "type": "java",
+                "name": "Launch Produto",
+                "request": "launch",
+                "mainClass": "Produto",
+                "projectName": "JAV4_1c6bd912"
+            }
+        ]
 }
