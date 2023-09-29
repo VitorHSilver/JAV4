@@ -1,14 +1,33 @@
 {
-  "editor.formatOnSave": true,
-  "[javascript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "workbench.iconTheme": "vscode-icons",
-  "files.autoSave": "afterDelay",
-  "workbench.colorTheme": "Dracula",
-  "git.confirmSync": false,
-  "[python]": {
-    "editor.formatOnType": true
-  },
-  "json.schemas": []
+    "workbench.colorTheme": "Dracula Soft",
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "workbench.iconTheme": "vscode-icons",
+    "redhat.telemetry.enabled": true,
+    "debug.javascript.debugByLinkOptions": "on",
+    "debug.javascript.resourceRequestOptions": {},
+    "debug.javascript.terminalOptions": {},
+    "json.schemas": [],
+    "files.autoSave": "afterDelay",
+    "editor.formatOnSave": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "prettier.singleQuote": true,
+    "prettier.semi": true,
+    "prettier.printWidth": 120,
+    "prettier.tabWidth": 10
 }

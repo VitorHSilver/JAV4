@@ -6,6 +6,83 @@
           "configurations": [
             {
                 "type": "java",
+                "name": "Launch BEE1010",
+                "request": "launch",
+                "mainClass": "exemplos.Beecrowd.BEE1010",
+                "projectName": "JAV4_9e0d5cb0"
+            },
+            {
+                "type": "java",
+                "name": "Launch BEE1009",
+                "request": "launch",
+                "mainClass": "exemplos.Beecrowd.BEE1009",
+                "projectName": "JAV4_9e0d5cb0"
+            },
+            {
+                "type": "java",
+                "name": "Launch BEE1008",
+                "request": "launch",
+                "mainClass": "exemplos.Beecrowd.BEE1008",
+                "projectName": "JAV4_9e0d5cb0"
+            },
+            {
+                "type": "java",
+                "name": "Launch BEE1007",
+                "request": "launch",
+                "mainClass": "exemplos.Beecrowd.BEE1007",
+                "projectName": "JAV4_9e0d5cb0"
+            },
+            {
+                "type": "java",
+                "name": "Launch BEE1006",
+                "request": "launch",
+                "mainClass": "exemplos.Beecrowd.BEE1006",
+                "projectName": "JAV4_9e0d5cb0"
+            },
+            {
+                "type": "java",
+                "name": "Launch EX1005",
+                "request": "launch",
+                "mainClass": "exemplos.Beecrowd.EX1005",
+                "projectName": "JAV4_9e0d5cb0"
+            },
+            {
+                "type": "java",
+                "name": "Launch EX1004",
+                "request": "launch",
+                "mainClass": "exemplos.Beecrowd.EX1004",
+                "projectName": "JAV4_9e0d5cb0"
+            },
+            {
+                "type": "java",
+                "name": "Launch SomaSimples",
+                "request": "launch",
+                "mainClass": "exemplos.Beecrowd.SomaSimples",
+                "projectName": "JAV4_9e0d5cb0"
+            },
+            {
+                "type": "java",
+                "name": "Launch PrintSimples",
+                "request": "launch",
+                "mainClass": "exemplos.Beecrowd.PrintSimples",
+                "projectName": "JAV4_9e0d5cb0"
+            },
+            {
+                "type": "java",
+                "name": "Launch Funcionario",
+                "request": "launch",
+                "mainClass": "String.Funcionario",
+                "projectName": "JAV4_9e0d5cb0"
+            },
+            {
+                "type": "java",
+                "name": "Launch TestFuncionario",
+                "request": "launch",
+                "mainClass": "SalarioFuncionarioapplication.TestFuncionario",
+                "projectName": "JAV4_1c6bd912"
+            },
+            {
+                "type": "java",
                 "name": "Launch OrderSumary",
                 "request": "launch",
                 "mainClass": "application.OrderSumary",
